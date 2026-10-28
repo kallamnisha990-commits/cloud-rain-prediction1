@@ -1,0 +1,7 @@
+streamlit
+numpy
+Pillow
+requests
+tensorflow
+keras
+huggingface_hub 
